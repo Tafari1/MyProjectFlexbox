@@ -1,0 +1,29 @@
+section{
+    background-color: rgb(188, 188, 240);
+    width: 50%;
+    height: 500px;
+    margin: 100px 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-shrink: 2
+}
+section div{
+    background-color: rgb(195, 220, 236);
+    border: 5px solid rgba(158, 212, 233, 0.945);
+    width: 200px;
+    height: 200px;
+    
+    
+    
+}
+section div img{
+    width: 200px;
+    height: 200px;
+    
+}
+h1{
+    text-align: center;
+    color: aqua;
+}
